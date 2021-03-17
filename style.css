@@ -21,7 +21,11 @@ flex-direction:row;}
 	width:27%;
 	height:60%;
 	padding-left:150px;
+
 	margin-top: -28vh;
+
+	margin-top: -25vh;
+
 }
 h1{
 	font-family:'Spartan', sans-serif;
@@ -37,4 +41,41 @@ p{
 	color: hsl(303, 10%, 53%);
 }
 	 
+.zvaigznes{
+display:flex;
+flex-direction:column;
+width: 50%;
+height:40%;
+margin-top:-20vh;
+align-items:flex-end;
+}	
+.logi{
+	display:flex;
 	
+	align-items:center;
+	border-radius: 10px;
+	width:42vh;
+	height:3vh;
+	padding: 15px;
+	padding-left:55px;
+	margin-top:15px;
+	background-color:   hsl(300, 24%, 96%);
+	font-family:'Spartan', sans-serif;
+	font-weight: 700;
+	 color:hsl(300, 43%, 22%);
+	 font-size: 15px;
+}
+.piecas{
+	display:flex;
+	height: 19px;
+	
+}
+#atstarpe{
+margin-right:15px;}
+#viens{
+margin-right: 160px;}
+
+#divi{
+margin-right:100px;}
+
+
