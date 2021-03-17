@@ -1,5 +1,10 @@
-.makonis1{
-background-image: url("bg-pattern-top-desktop.svg");
-width:50%;
-height:50%;
+
+* {
+  margin: 0;
+  padding: 0;
 }
+
+.apaksa{
+position:absolute;
+bottom:0;
+right:0;}
