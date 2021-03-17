@@ -8,3 +8,33 @@
 position:absolute;
 bottom:0;
 right:0;}
+
+.flex{
+	width:100%;
+	height:50%;
+	display:flex;
+flex-direction:row;}
+
+.teksts{
+	display:flex;
+	flex-direction:column;
+	width:27%;
+	height:60%;
+	padding-left:150px;
+	margin-top: -28vh;
+}
+h1{
+	font-family:'Spartan', sans-serif;
+	font-weight: 700;
+	 color:hsl(300, 43%, 22%);
+	 font-size: 60px;
+}
+p{
+	font-family:'Spartan', sans-serif;
+	
+	font-weight: 500;
+	line-height:1.5;
+	color: hsl(303, 10%, 53%);
+}
+	 
+	
