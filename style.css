@@ -20,8 +20,16 @@ flex-direction:row;}
 	flex-direction:column;
 	width:27%;
 	height:60%;
+
 	padding-left:210px;
+
+	padding-left:150px;
+
+	margin-top: -28vh;
+
+
 	margin-top: -25vh;
+
 }
 h1{
 	font-family:'Spartan', sans-serif;
@@ -73,6 +81,7 @@ margin-right: 160px;}
 
 #divi{
 margin-right:100px;}
+
 
 .lauki{
 	display:flex;
@@ -229,3 +238,4 @@ margin-left:auto;}
 	}
 	
 	
+
