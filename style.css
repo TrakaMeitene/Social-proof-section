@@ -20,9 +20,13 @@ flex-direction:row;}
 	flex-direction:column;
 	width:27%;
 	height:60%;
+
+	padding-left:210px;
+
 	padding-left:150px;
 
 	margin-top: -28vh;
+
 
 	margin-top: -25vh;
 
@@ -58,7 +62,7 @@ align-items:flex-end;
 	height:3vh;
 	padding: 15px;
 	padding-left:55px;
-	margin-top:15px;
+	margin-top:20px;
 	background-color:   hsl(300, 24%, 96%);
 	font-family:'Spartan', sans-serif;
 	font-weight: 700;
@@ -78,4 +82,160 @@ margin-right: 160px;}
 #divi{
 margin-right:100px;}
 
+
+.lauki{
+	display:flex;
+	width:100%;
+	height:50vh;
+flex-direction:row;
+justify-content:center;
+	align-items:center;
+	}
+
+
+.burbuli{
+	display:flex;
+	flex-direction:column;
+	width: 24.5%;
+	height:250px;
+	background-color:  hsl(300, 43%, 22%);
+	border-radius:10px;
+	margin-right:30px;
+	
+	
+}
+.bilde{
+	display:flex;
+	flex-direction:row;
+	margin-top:25px;
+	margin-left:25px;
+	width:80%;
+	height:20%;
+	font-family:'Spartan', sans-serif;
+	font-weight: 700;
+	color: hsl(0, 0%, 100%);
+	font-size:15px;
+}
+.colton{
+	border-radius:50px;
+	height:52px;
+	width:52px;
+	margin-right:20px;
+	
+}
+.roza{
+	font-family:'Spartan', sans-serif;
+	color: hsl(333, 80%, 67%);
+font-size:15px;}
+
+.vards{
+	display:flex;
+flex-direction:column;
+padding-top:10px;}
+.apraksts{
+	display:flex;
+	font-family:'Spartan', sans-serif;
+	color: hsl(0, 0%, 100%);
+font-size:14px;
+padding:30px;
+	font-weight: 300;
+	line-height:1.5;
+}
+	#uzleju{
+		margin-top:30px;
+	}
+	#uzleju2{
+	margin-top:60px;}
+	
+@media only screen and (max-width: 800px) {
+.augsa{
+width:100%;
+height:auto;}
+	
+.apaksa{
+position:absolute;
+width:100%;
+height:auto;
+bottom:-32px;
+
+	
+}
+.flex{
+width:100%;
+height:auto;
+
+flex-wrap:wrap;}
+body{
+	display:flex;
+	position:relative;
+	flex-direction:column;
+width:100%;
+height:auto;}
+
+.teksts{
+	text-align:center;
+	
+padding-left:0;
+margin-left:auto;
+margin-right:auto;
+width:80%;
+height:auto;
+	
+	
+}
+h1{
+font-size:40px;}
+
+.zvaigznes{
+
+
+width: 100%;
+height:60%;
+
+margin-top:0;
+justify-content:center; 
+align-items:center;
+
+}	
+
+
+
+.logi{
+	flex-wrap:wrap;
+	justify-content:center;
+	line-height:2.5;
+	width:36vh;
+	height:6vh;
+	padding-left:0;
+margin-left:auto;
+margin-right:auto;
+
+}
+.lauki{	
+	
+padding-left:0;
+margin-left:auto;
+margin-right:auto;
+width:80%;
+height:auto;
+	margin-top:40px;
+	
+flex-direction:column;
+
+	}
+.burbuli{
+	margin-right:0;
+	
+	width: 80%;
+	
+}
+ #viens, #divi{
+margin-right:auto;
+margin-left:auto;}
+
+#uzleju2{
+	margin-top:30px;}
+	}
+	
+	
 
