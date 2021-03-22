@@ -147,7 +147,7 @@ padding:30px;
 	#uzleju2{
 	margin-top:60px;}
 	
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 850px) {
 .augsa{
 width:100%;
 height:auto;}
@@ -235,6 +235,15 @@ margin-left:auto;}
 
 #uzleju2{
 	margin-top:30px;}
+	}
+	
+	@media only screen and (min-width: 600px) {
+		.logi{
+
+	width:50%;
+	
+
+}
 	}
 	
 	
